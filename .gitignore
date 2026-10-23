@@ -1,0 +1,21 @@
+# Java / Maven
+target/
+*.class
+
+# Local app data
+expense-tracker.db
+expense-tracker.db-shm
+expense-tracker.db-wal
+transactions.csv
+
+# IDEs
+.idea/
+.vscode/
+*.iml
+.classpath
+.project
+.settings/
+
+# OS
+.DS_Store
+Thumbs.db
